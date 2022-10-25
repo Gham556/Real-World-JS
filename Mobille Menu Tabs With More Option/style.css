@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0; 
+}
+
+.menu {
+    display: flex;;
+    
+    justify-content: space-evenly;
+    margin-top: 32px;
+    min-width: 340px;
+
+}
+
+
+.hidden {
+    visibility: hidden;
+    position: relative;
+}

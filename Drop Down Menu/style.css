@@ -1,0 +1,16 @@
+.hidden {
+    visibility: collapse;
+}
+
+.dropdown {
+    display: grid;
+    grid-template-columns: 1;
+}
+
+.dropdown > div{
+ padding: 25px;
+ background: #F32;
+}
+
+
+

@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    align-items: center;
+    max-width: 90%;
+
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+input:invalid {
+    background: #f7070770;
+}
